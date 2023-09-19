@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Project</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">BeFriend Animals</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+    <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#ourMission">Our Mission<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#programs">Programs</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#donate">Donate</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#contact">Contact Us</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="bd-example">
+<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/CA-wildfire-homepage-slider-A-min-1265x615-c-default-fotor-2023091903122.png" class="d-block w-100" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="images/Rescue animals.jpg" class="d-block w-100" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h1 style="color:lightblue;">Sponsor an Animal</h1>
+        <p style="font-size: 150%; color:lightblue;">No matter the amount, every donation carries a meaningful impact</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="images/pexels-david-dibert-635499.jpg" class="d-block w-100" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h1 style="color:lightblue;">Create Legacy</h1>
+        <p style="font-size: 150%; color:lightblue;">Join our inspiring community and help us save precious lives, with one small step.</p>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+
+<a id="ourMission">
+<section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center" style="font-size:300%;"><b>Our Mission</b></h2>
+    <br>
+    <p class="text-center" style="font-size:120%; font-family: Georgia, sans-serif;">BeFriend Animals is committed to helping ensure the safety, welfare and <br>well-being of animals.
+    For more than a hundred years BeFriend Animals has<br> been first in promoting the welfare and safety of animals and strengthening<br> the bond between animals and people.</p>
+  <!-- </div>
+  <div class="py-4"> --><br>
+    <h3 class="text-center" style="font-size:200%; font-family: Georgia, sans-serif; color:dodgerblue"><b>Why to join BeFriend Animals?</b></h3>
+    <p class="text-center" style="font-size:120%; font-family: Georgia, sans-serif;">By volunteering or working with us, you have the opportunity<br> to make a positive impact on the lives of animals in need. Being a part of such an <br>organization allows you to be directly involved in saving lives.</p>
+  </div>
+</section>
+</a>
+
+<a id="image">
+<section class="my-4">
+  <div class="py-4">
+    <img src="images/projectImage.PNG" class="d-block w-100" alt="Best Friend">
+  </div>
+</section>
+</a>
+
+<a id="programs">
+  <section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center" style="font-size:300%;"><b>Programs</b></h2>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/Untitled design.png" class="img-fluid pb-3">
+        <p style="text-align:center; font-size: 18px;"><b>Rescue<br></b>From natural disasters to animal cruelty investigations, Befriend Animals is on the front lines protecting animals and saving lives in times of crisis.</p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/StaffVanessaPorter_Handsome_9395_crop - Copy(1).jpg" class="img-fluid pb-3">
+        <p style="text-align:center; font-size: 18px;"><b>Teaming Up</b><br>We're right there with you as you make a better future for homeless cats and dogs, giving you support you need to care for your pets and the pets and people in your community.</p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/pexels-photo-1416787.jpeg" class="img-fluid pb-3">
+        <p style="text-align:center; font-size: 18px;"><b>Standing With Shelters</b><br>We work to save more lives faster by providing shelters and rescue groups with ways to collaborate and connect so they can increase the number of animals they can rehome in their community.</p>
+      </div>
+</div>
+  </div>
+</section>
+</a>
+
+      <section class="my-4">
+  <div class="py-4">
+    <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-6 col-md-4 col-12">
+        <img src="images/Untitled Design (4).png" class="img-fluid pb-3">
+      </div>
+      <div class="col-lg-6 col-md-4 col-12">
+        <img src="images/Barley8030MW_hp.webp" class="img-fluid pb-3">
+      </div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="my-4">
+  <div class="py-4">
+    <h2 class="text-center" style="color:darkgrey; font-size:350%;"><b>SAVE<br>THEMALL</b></h2>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/three-3249952_640.jpg" class="img-fluid pb-3">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/443265b0-54ae-4a67-9407-6006371c1e3f.jpg" class="img-fluid pb-3">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/white-horse-beside-tree.jpg" class="img-fluid pb-3">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/hq720.jpg" class="img-fluid pb-3">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/iStock-621849104.jpg" class="img-fluid pb-3">
+      </div>
+      <div class="col-lg-4 col-md-4 col-12">
+        <img src="images/pexels-matthias-zomer-97317 (2).jpg" class="img-fluid pb-3">
+      </div>
+    </div>
+</section>
+
+<a id="donate">
+<section class="my-4">
+  <div class="py-4">
+    <h1 class="text-center" style="color:steelblue; font-family:Georgia, 'Times New Roman', Times, serif;"><b> Join Hands with us<br>Save little life...</b></h1><br>
+    <p class="text-center" style="font-size:120%; font-family: Georgia, sans-serif;">Your contribution ensures that injured and ill ownerless animals are <br>rescued and receive life-saving medical attention. Every year we rescue thousands<br> of animals in need and your generous donation makes that possible.
+
+</p>
+  </div>
+
+   <div class="text-center m-auto">
+      <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Me65QsACNP0Dwz" async> </script> </form>
+ </div>
+ <br><br>
+<br><br>
+<a id="contact">
+<section class="my-4" style="background-color:dimgray">
+
+
+<div class="py-4">
+    <h2 class="text-center" style="font-size:250%; color:black;"><b>Contact Us</b></h2>
+  </div>
+  
+  <p class="text-center" style="color:white;"><b>BeFriend Animals Organization<br>1423 76th Street YW, Suite 36
+     <br>Washington, DC 21526<br>info@befriendanimals.org<br>(800)276-7845</b></p><br>
+
+</section>
+</a>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
